@@ -1,3 +1,4 @@
+#sudo su 
 name: Azure Production - Build and Deploy
 
 # **What it does**: Builds and deploys the default branch to production
