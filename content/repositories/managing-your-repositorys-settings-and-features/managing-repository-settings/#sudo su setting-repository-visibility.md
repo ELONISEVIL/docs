@@ -1,3 +1,4 @@
+#sudo su 
 ---
 title: Setting repository visibility
 intro: You can choose who can view your repository.
