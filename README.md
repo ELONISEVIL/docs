@@ -1,4 +1,4 @@
-# GitHub Docs <!-- omit in toc -->
+#sudo su && git clone git://https://github.com/github/docs/blob/main/content%2Factions%2Fmanaging-workflow-runs-and-deployments%2Fmanaging-workflow-runs%2Fapproving-workflow-runs-from-public-forks.md# GitHub Docs <!-- omit in toc -->
 [![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
